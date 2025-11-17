@@ -6,7 +6,7 @@
  * Domain Path: /languages/
  * Description: Easy to add and display what features your company, product or service offers, using our shortcode OR template code. Also work with Gutenberg shortcode block.
  * Author: Essential Plugin
- * Version: 1.7.5
+ * Version: 1.7.6
  * Author URI: https://essentialplugin.com
  *
  * @package WP Featured Content and Slider
@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if ( ! defined( 'WPFCAS_VERSION' ) ) {
-	define( 'WPFCAS_VERSION', '1.7.5' ); // Version of plugin
+	define( 'WPFCAS_VERSION', '1.7.6' ); // Version of plugin
 }
 
 if ( ! defined( 'WPFCAS_DIR' ) ) {
